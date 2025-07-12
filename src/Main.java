@@ -13,45 +13,45 @@ public class Main {
             System.out.println("Задача №1 ");
 
             byte a = 13;
-             System.out.println("a= " +a);
+             System.out.println(" Значение переменной a c типом byte = " +a);
 
              short b = 765;
-             System.out.println("b= " +b);
+             System.out.println(" Значение переменной b c типом short = " +b);
 
              int c = 23765;
-             System.out.println("c= " +c);
+             System.out.println(" Значение переменной c c типом int = " +c);
 
-             long d = 854;
-             System.out.println("d= " +d);
+             long d = 854L;
+             System.out.println(" Значение переменной d c типом long = " +d);
 
              float e = 2.43F;
-             System.out.println("e= " +e);
+             System.out.println(" Значение переменной e c типом float = " +e);
 
              double f = 34.8905;
-             System.out.println("f= " +f);
+             System.out.println(" Значение переменной f c типом double = " +f);
 
              System.out.println("Задача №2 ");
 
              float a1= 22.12F;
-             System.out.println("a1=" + a1);
+             System.out.println("Значение переменной a1= " + a1 + " тип переменой float");
 
              long a2 = 987678965549L;
-             System.out.println("a2=" + a2);
+             System.out.println("Значение переменной a2= " + a2 + " тип переменной long");
 
              float a3= 2.786F;
-             System.out.println("a3=" + a3);
+             System.out.println("Значение переменной a3= " + a3 + " тип переменной float");
 
              short a4= 569;
-             System.out.println("a4=" + a4);
+             System.out.println("Значение переменной a4= " + a4 + " тип переменной short");
 
              short a5= -159;
-             System.out.println("a5=" + a5);
+             System.out.println("Значение переменной a5= " + a5 + " тип переменной short");
 
              short a6= 27897;
-             System.out.println("a6=" + a6);
+             System.out.println("Значение переменной a6= " + a6 + " тип переменной short");
 
              byte a7 = 67;
-             System.out.println("a7= " +a7);
+             System.out.println("Значение переменной a7= " + a7 + " тип переменной byte");
 
              System.out.println("Задача №3 ");
 
